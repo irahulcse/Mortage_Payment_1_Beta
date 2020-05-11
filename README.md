@@ -1,8 +1,11 @@
 ![Image](images/rovers.jpg)
-# Bottom_Sheets_UI_Flutter :boom:
+# Mortage_Payment_App :boom:
 
-Created Telegram User Interface in Flutter using the **widgets** like ListTile, ListView and different builders like the ListView Builder Seperator and also used the other widgets like CircleAvator, Text widgets for UI etc.
+In this App, I had learnt about how to keep the minimalistic design and change the overall colour and design, which can be further used for the good UI concepts.
 
+### Using of the App:
+
+The App can be used for finding the interest rate about a particular Principal on the given Interest Rate and given time period. 
 
 ### Show some love :heart: and star the repo to support the project
 
@@ -12,13 +15,11 @@ The Parent Repository of this project can be found on this [link](https://github
 
 # Live Working Project:
 
-[Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/)
+[Demo Application](https://irahulcse.github.io/Mortage_Payment_1_Beta/#/)
 
 ## Features Needed to Be Added:
 
-* [?] Live Working Project
-* [?] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
-* [?] Everything is static right now, no API integration done on it.
+* [✅] Live Working Project
 
 ### Created with :heart:
 A a Pre-Final Year Computer Science Student, an experienced Software Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competitive Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
