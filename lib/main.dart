@@ -42,4 +42,5 @@ _baseMortage(TextTheme base) {
 void main() => runApp(new MaterialApp(
       theme: _buildMortageTheme(),
       home: MortgageApp(),
+      debugShowCheckedModeBanner: false,
     ));
