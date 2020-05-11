@@ -17,9 +17,24 @@ class _MortgageAppState extends State<MortgageApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       floatingActionButton: FloatingActionButton(
-        onPressed: () => {},
+        backgroundColor: Theme.of(context).primaryColorDark,
+        onPressed: () => {
+          print("clicked")
+        },
         child: Icon(
           Icons.add,
+        ),
+        foregroundColor: Colors.white,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.all(
+            Radius.circular(
+              12,
+            ),
+          ),
+          side: BorderSide(
+            color: Colors.purple,
+            width: 5,
+          ),
         ),
       ),
       appBar: AppBar(
